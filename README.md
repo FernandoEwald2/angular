@@ -1,5 +1,9 @@
 # MeuProjetoAngular
 
+<img src="https://i.poweredtemplates.com/i/cl/00/510/ppt_animation_332.gif" width="84" height="56" alt="Homens Trabalhando"> 
+
+**Desculpe os transtornos estamos trabalhando para organizar isso !!
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
 ## Development server
